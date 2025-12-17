@@ -1,5 +1,11 @@
 # PromptMasker
 
+![PromptMasker](<p align="center">
+  <img src="./promptmasker.png" alt="PromptMasker" width="400"/>
+</p>)
+
+
+
 PromptMasker is a **prompt-sanitization utility** that heuristically detects and masks
 sensitive data in raw text before it is sent to LLMs, logs, or external services.
 
