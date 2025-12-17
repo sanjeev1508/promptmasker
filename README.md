@@ -1,8 +1,8 @@
 # PromptMasker
 
-![PromptMasker](<p align="center">
+<p align="center">
   <img src="./promptmasker.png" alt="PromptMasker" width="400"/>
-</p>)
+</p>
 
 
 
