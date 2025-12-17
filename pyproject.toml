@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "promptmasker"
+version = "0.0"
+description = "Heuristic prompt masking utility for sensitive data"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+
+authors = [
+  { name = "SanjeeviKumar S", email = "sanjeevikumar15@gmail.com" }
+]
+
+keywords = ["llm", "prompt", "masking", "redaction", "security"]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/sanjeev1508/promptmasker"
